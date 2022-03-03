@@ -1,0 +1,5 @@
+# No need for Obsidian settings, just bloat
+**/.obsidian/*
+
+# No need for vscode settings, just bloat
+**/.vscode/*
