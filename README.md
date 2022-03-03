@@ -2,14 +2,14 @@
 
 ```mermaid
 graph TD;
-a[A]
-b[B]
+a["/"]
+b[src]
 c[C]
 d[D]
 e[E]
 f[F]
 g[G]
-h[H]
+h[Docs]
 
 a-->b-->c
 
