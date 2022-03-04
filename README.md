@@ -35,6 +35,6 @@ issue1--"Yes is start"-->build[Build it!]-->CD
 issue1--"No, it dies"-->make[Make issue backlog]-->tag_c
 CD-->mark{"Can you build a stable?"}
 mark--"Yes"-->tag_b
-mark--"No!"-->tag_a
+mark--"No"-->tag_a
 ```
 
